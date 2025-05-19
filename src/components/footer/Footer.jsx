@@ -49,7 +49,7 @@ const Footer = () => {
               <ul className="text-gray-400 text-sm space-y-2">
                 <li>
                   <a
-                    href="mailto:d.h.shin@yandex.ru"
+                    href="mailto:adconstruction965@gmail.com"
                     className="hover:text-white"
                   >
                     {t("Contact Us")}
@@ -67,6 +67,12 @@ const Footer = () => {
                   className="text-gray-400 text-sm mb-4"
                 >
                   +374 93 260-001
+                </a>
+                <a
+                  href="mailto:adconstruction965@gmail.com"
+                  className="text-gray-400 text-sm mb-4"
+                >
+                  adconstruction965@gmail.com
                 </a>
                 <a
                   href="mailto:d.h.shin@yandex.ru"

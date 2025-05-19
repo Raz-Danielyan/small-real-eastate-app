@@ -13,7 +13,7 @@ const NewsLetter = () => {
           </h1>
           <p className="text-gray-700 mb-6">{t("n-descr")}</p>
           <a
-            href="mailto:d.h.shin@yandex.ru"
+            href="mailto:adconstruction965@gmail.com"
             className="inline-flex items-center px-6 py-3 bg-white border border-orange-500 text-black font-medium rounded hover:bg-gray-100 transition"
           >
             {t("Contact Us")}
